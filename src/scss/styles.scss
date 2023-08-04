@@ -17,3 +17,9 @@
 
 // Sections
 @import "./sections/resume-section.scss";
+
+
+// Fix color contrast
+.text-primary {
+    color: #b85a36 !important;
+}
